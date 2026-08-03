@@ -1,5 +1,5 @@
 # mure-log
-Our bi-weekly newsletter in markdown.
+Our bi-weekly data systems newsletter, [THE MURE LOG](https://www.linkedin.com/newsletters/the-mure-log-7462052049262845952/), in markdown.
 
 **2026**
 - [The MURE LOG #14: multi-engine lakehouses]()

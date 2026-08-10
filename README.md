@@ -1,5 +1,5 @@
 # mure-log
-Our bi-weekly data systems newsletter, THE MURE LOG, in markdown.
+THE MURE LOG. Our bi-weekly data systems newsletter in markdown.
 
 Two platforms, same content:
 

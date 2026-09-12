@@ -7,6 +7,7 @@ Two platforms, same content:
 - [LinkedIn](https://www.linkedin.com/newsletters/the-mure-log-7462052049262845952/)
 
 **2026**
+- [The MURE LOG #17: data teams as a moat](newsletter/20260911-mure-log-17.md)
 - [The MURE LOG #16: Ducks](newsletter/20260830-mure-log-16.md)
 - [The MURE LOG #15: agentic data engineering](newsletter/220260817-mure-log-15.md)
 - [The MURE LOG #14: multi-engine lakehouses](newsletter/20260803-mure-log-14.md)

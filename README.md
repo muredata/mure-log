@@ -7,6 +7,7 @@ Two platforms, same content:
 - [LinkedIn](https://www.linkedin.com/newsletters/the-mure-log-7462052049262845952/)
 
 **2026**
+- [The MURE LOG #20: Iceberg, catalogs, agent harnesses](newsletter/20261026-mure-log-20.md)
 - [The MURE LOG #19: Who's faster? Who's cheaper?](newsletter/20261012-mure-log-19.md)
 - [The MURE LOG #18: Jev meets data](newsletter/20260925-mure-log-18.md)
 - [The MURE LOG #17: data teams as a moat](newsletter/20260911-mure-log-17.md)

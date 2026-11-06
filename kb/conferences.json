@@ -83,6 +83,14 @@
     "type": "community"
   },
   {
+    "name": "Airflow Summit",
+    "url": "https://airflowsummit.org/",
+    "date": "2026-08-31",
+    "location": "Austin, TX",
+    "region": "Americas",
+    "type": "community"
+  },
+  {
     "name": "Rows & Columns Summit",
     "url": "https://rowsandcolumnssummit.com/",
     "date": "2026-09-22",

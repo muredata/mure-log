@@ -130,7 +130,8 @@
     "date": "2026-11-04",
     "location": "San Francisco, CA",
     "region": "Americas",
-    "type": "community"
+    "type": "vendor",
+    "vendor": "MotherDuck"
   },
   {
     "name": "Current San Francisco",

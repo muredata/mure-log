@@ -3,216 +3,252 @@
     "name": "underCurrent",
     "url": "https://current.confluent.io/data-engineers",
     "date": "2026-03-26",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "Iceberg Summit",
     "url": "https://www.icebergsummit.org/",
     "date": "2026-04-08",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "SQLBits",
     "url": "https://sqlbits.com/",
     "date": "2026-04-22",
-    "location": "Newport, Wales"
+    "location": "Newport, UK",
+    "region": "Europe + UK"
   },
   {
     "name": "OpenXData",
     "url": "https://www.openxdata.ai/",
     "date": "2026-04-29",
-    "location": "Virtual"
+    "location": "Virtual",
+    "region": "Virtual"
   },
   {
     "name": "VibeCon",
     "url": "https://vibecon.io/",
     "date": "2026-04-29",
-    "location": "Virtual"
+    "location": "Virtual",
+    "region": "Virtual"
   },
   {
     "name": "PyCon US",
     "url": "https://us.pycon.org/2026/",
     "date": "2026-05-13",
-    "location": "Long Beach, CA"
+    "location": "Long Beach, CA",
+    "region": "US"
   },
   {
     "name": "Current London",
     "url": "https://current.confluent.io/london",
     "date": "2026-05-19",
-    "location": "London"
+    "location": "London, UK",
+    "region": "Europe + UK"
   },
   {
     "name": "ACM CAIS",
     "url": "https://www.caisconf.org/",
     "date": "2026-05-27",
-    "location": "San Jose, CA"
+    "location": "San Jose, CA",
+    "region": "US"
   },
   {
     "name": "Microsoft Build",
     "url": "https://build.microsoft.com/en-US/home",
     "date": "2026-06-02",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "EuroPython 2026",
     "url": "https://ep2026.europython.eu/",
     "date": "2026-07-13",
-    "location": "Kraków, Poland"
+    "location": "Kraków, Poland",
+    "region": "Europe + UK"
   },
   {
     "name": "Rows & Columns Summit",
     "url": "https://rowsandcolumnssummit.com/",
     "date": "2026-09-22",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "PROMPT by Hex",
     "url": "https://hex.tech/prompt/",
     "date": "2026-10-27",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "J On the Beach",
     "url": "https://jonthebeach.com/",
     "date": "2026-10-29",
-    "location": "Malaga, Spain"
+    "location": "Málaga, Spain",
+    "region": "Europe + UK"
   },
   {
     "name": "OSA CON",
     "url": "https://osacon.io/",
     "date": "2026-11-02",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "Data Engineering & AI Leadership Summit",
     "url": "https://dataaileadership.com/",
     "date": "2026-11-02",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "Data Outpost",
     "url": "https://www.dataoutpost.ai/",
     "date": "2026-11-04",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "Current San Francisco",
     "url": "https://current.confluent.io/san-francisco",
     "date": "2026-11-04",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "Microsoft Ignite",
     "url": "https://ignite.microsoft.com/en-US/home",
     "date": "2026-11-17",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "Forward Data Conference",
     "url": "https://forward-data-conference.com/en/",
     "date": "2026-11-17",
-    "location": "Paris"
+    "location": "Paris, France",
+    "region": "Europe + UK"
   },
   {
     "name": "AWS re:Invent",
     "url": "https://aws.amazon.com/events/reinvent/",
     "date": "2026-11-30",
-    "location": "Las Vegas"
+    "location": "Las Vegas, NV",
+    "region": "US"
   },
   {
     "name": "FabCon + SQLCon",
     "url": "https://fabriccon.com/",
     "date": "2027-03-08",
-    "location": "Atlanta"
+    "location": "Atlanta, GA",
+    "region": "US"
   },
   {
     "name": "Big Data & AI World London",
     "url": "https://www.techshowlondon.co.uk/big-data-ai-world",
     "date": "2027-03-10",
-    "location": "London"
+    "location": "London, UK",
+    "region": "Europe + UK"
   },
   {
     "name": "DataEngBytes",
     "url": "https://dataengbytes.com/",
     "date": "2027-03-16 & 2027-03-19 & 2027-05-25 & 2027-05-28 & 2027-10-12 & 2027-10-15",
-    "location": "Brisbane, Auckland, Perth, Adelaide, Melbourne & Sydney"
+    "location": "Australia & New Zealand",
+    "region": "APAC"
   },
   {
     "name": "AI Council",
     "url": "https://www.aicouncil.com/",
     "date": "2027-03-23",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "Google Cloud Next",
     "url": "https://www.googlecloudevents.com/next-vegas/",
     "date": "2027-04-13",
-    "location": "Las Vegas"
+    "location": "Las Vegas, NV",
+    "region": "US"
   },
   {
     "name": "QCon London",
     "url": "https://qconlondon.com/",
     "date": "2027-04-13",
-    "location": "London"
+    "location": "London, UK",
+    "region": "Europe + UK"
   },
   {
     "name": "Data Engineering Open Forum at Netflix",
     "url": "https://www.dataengineeringopenforum.com/",
     "date": "2027-04-20",
-    "location": "South San Francisco"
+    "location": "South San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "ODSC",
     "url": "https://odsc.com/",
     "date": "2027-05-10",
-    "location": "Boston"
+    "location": "Boston, MA",
+    "region": "US"
   },
   {
     "name": "Snowflake Summit",
     "url": "https://www.snowflake.com/en/summit/",
     "date": "2027-06-07",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "SIGMOD/PODS",
     "url": "https://2027.sigmod.org/",
     "date": "2027-06-13",
-    "location": "Huntington Beach, CA"
+    "location": "Huntington Beach, CA",
+    "region": "US"
   },
   {
     "name": "Databricks Data + AI Summit",
     "url": "https://www.databricks.com/dataaisummit",
     "date": "2027-06-21",
-    "location": "San Francisco"
+    "location": "San Francisco, CA",
+    "region": "US"
   },
   {
     "name": "Ai4",
     "url": "https://ai4.com/",
     "date": "2027-08-02",
-    "location": "Las Vegas"
+    "location": "Las Vegas, NV",
+    "region": "US"
   },
   {
     "name": "VLDB",
     "url": "https://vldb.org/2027/",
     "date": "2027-08-23",
-    "location": "Athens, Greece"
+    "location": "Athens, Greece",
+    "region": "Europe + UK"
   },
   {
     "name": "dbt Summit",
     "url": "https://www.getdbt.com/dbt-summit",
     "date": "2027-09-13",
-    "location": "Las Vegas"
+    "location": "Las Vegas, NV",
+    "region": "US"
   },
   {
     "name": "Big Data LDN",
     "url": "https://www.bigdataldn.com/",
     "date": "2027-09-22",
-    "location": "London"
+    "location": "London, UK",
+    "region": "Europe + UK"
   },
   {
     "name": "Microsoft Fabric Community Conference Europe",
     "url": "https://espc.tech/conference/fabcon-europe",
     "date": "2027-10-25",
-    "location": "Amsterdam"
+    "location": "Amsterdam, Netherlands",
+    "region": "Europe + UK"
   }
 ]

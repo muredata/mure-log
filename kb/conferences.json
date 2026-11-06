@@ -75,6 +75,15 @@
     "vendor": "Microsoft"
   },
   {
+    "name": "DuckCon #7",
+    "url": "https://duckdb.org/events/2026/06/24/duckcon7/",
+    "date": "2026-06-24",
+    "location": "Amsterdam, Netherlands",
+    "region": "EMEA",
+    "type": "vendor",
+    "vendor": "DuckDB Labs"
+  },
+  {
     "name": "EuroPython 2026",
     "url": "https://ep2026.europython.eu/",
     "date": "2026-07-13",
@@ -96,6 +105,14 @@
     "date": "2026-09-22",
     "location": "San Francisco, CA",
     "region": "Americas",
+    "type": "community"
+  },
+  {
+    "name": "dataMinds Connect",
+    "url": "https://datamindsconnect.be/",
+    "date": "2026-10-12",
+    "location": "Mechelen, Belgium",
+    "region": "EMEA",
     "type": "community"
   },
   {
@@ -210,6 +227,15 @@
     "type": "community"
   },
   {
+    "name": "DuckCon #8",
+    "url": "https://duckdb.org/events/2027/04/07/duckcon8/",
+    "date": "2027-04-07",
+    "location": "Amsterdam, Netherlands",
+    "region": "EMEA",
+    "type": "vendor",
+    "vendor": "DuckDB Labs"
+  },
+  {
     "name": "Google Cloud Next",
     "url": "https://www.googlecloudevents.com/next-vegas/",
     "date": "2027-04-13",
@@ -240,6 +266,14 @@
     "date": "2027-05-10",
     "location": "Boston, MA",
     "region": "Americas",
+    "type": "community"
+  },
+  {
+    "name": "SQLDay",
+    "url": "https://sqlday.pl/sqlday-2027/",
+    "date": "2027-05-10",
+    "location": "Wrocław, Poland",
+    "region": "EMEA",
     "type": "community"
   },
   {

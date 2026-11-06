@@ -36,6 +36,12 @@
     "location": "Long Beach, CA"
   },
   {
+    "name": "Current London",
+    "url": "https://current.confluent.io/london",
+    "date": "2026-05-19",
+    "location": "London"
+  },
+  {
     "name": "ACM CAIS",
     "url": "https://www.caisconf.org/",
     "date": "2026-05-27",
@@ -86,6 +92,12 @@
   {
     "name": "Data Outpost",
     "url": "https://www.dataoutpost.ai/",
+    "date": "2026-11-04",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Current San Francisco",
+    "url": "https://current.confluent.io/san-francisco",
     "date": "2026-11-04",
     "location": "San Francisco"
   },

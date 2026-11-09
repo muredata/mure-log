@@ -194,6 +194,14 @@
     "vendor": "AWS"
   },
   {
+    "name": "CIDR",
+    "url": "https://www.cidrdb.org/",
+    "date": "2027-01-24",
+    "location": "Amsterdam, Netherlands",
+    "region": "EMEA",
+    "type": "research"
+  },
+  {
     "name": "FabCon + SQLCon",
     "url": "https://fabriccon.com/",
     "date": "2027-03-08",
